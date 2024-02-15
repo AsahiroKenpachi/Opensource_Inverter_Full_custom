@@ -1,6 +1,6 @@
-Xschem-Schmeatic For inverter (.sym and .sch)
-Magic -Layout (.mag)
-Ngspice - Simulation (.spice)
-Netgen - LVS (comp.out)
-sky130A_setup.tcl(Setup file for netgen)
-xschemrc-setupfile for xschem
+Xschem-Schmeatic For inverter (.sym and .sch)<br/>
+Magic -Layout (.mag)<br/>
+Ngspice - Simulation (.spice)<br/>
+Netgen - LVS (comp.out)<br/>
+sky130A_setup.tcl(Setup file for netgen)<br/>
+xschemrc-setupfile for xschem<br/>
